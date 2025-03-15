@@ -1,0 +1,4 @@
+virtfusion_api_url = "your-virtfusion-instance.com"
+virtfusion_access_token = "your_secret_api_token"
+ssh_keys = [12433]
+user_id = 1

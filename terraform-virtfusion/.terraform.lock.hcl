@@ -1,0 +1,25 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/ezscale/virtfusion" {
+  version     = "0.0.3"
+  constraints = "0.0.3"
+  hashes = [
+    "h1:m9b3vEty+O9htkARAt+6RIZzER8r+YzULRd448dV9l4=",
+    "zh:02a83e531f573aec6479c285a2ea08c6fd007a43714f5353b89d359e6718eef3",
+    "zh:0550f526908828a7345126b1063979e34867170691c8e1a329b824d3a7e2a28c",
+    "zh:09d578efe18cfe6332ce28d4b700eeedc330fd48622e533776992b5c43286a11",
+    "zh:22c18b4c7f4046cd04e9c74e69a279575d5637b66ab192f9a4c759b9481f2a7a",
+    "zh:23333e58b46f1e224039cceaaed431d0566db54f12ff0f0a0b87e19d02262688",
+    "zh:5c4414ac167bfc7d9cd42983225632d49c3b8deeb84cec6b831550a6188a0b7b",
+    "zh:5f17c6fd578d0702cf7f8a17358db3b05c5c54f60cd2b80a862693348cfce823",
+    "zh:606a72fc9b1a725c643d9237e07e886678995d64c4c3fb277a53fb19cecd4f71",
+    "zh:6bfeae3b6786e8156607a4d348fb87d176ded8a3bc9ba2c3110a5a67813dbbc5",
+    "zh:88c10d57a98f0b56a68c97f57f5cdaa037bdabc684716755d65dbc7d9877fd75",
+    "zh:890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f",
+    "zh:985111abb373ceb190a7eff3a3e228465c9d1911047f06d861835707837ee7cf",
+    "zh:b0e304d7e79a6ff1c4c6a538000e0edda1988084e67c0e59678f92fe9e0e4c46",
+    "zh:c8b01b7c07a66dae244104732a6ed952d22c6be2bfadab70c136eef3a8640a9a",
+    "zh:d9a91744fc7466c2199da4d7a03b2e919f88c825250e6deab07c9426cdc923c0",
+  ]
+}
